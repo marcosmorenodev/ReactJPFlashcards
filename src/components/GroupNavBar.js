@@ -1,9 +1,9 @@
 import React, { useEffect, useReducer, useState } from 'react'
 import { NavLink } from 'react-router-dom'
-import fetchReducer, { initialFetchState } from '../src/components/reducer-hook/fetchReducer';
-import actionTypes from "../src/components/custom-hook/actionTypes";
+import fetchReducer, { initialFetchState } from './reducer-hook/fetchReducer';
+import actionTypes from "./custom-hook/actionTypes";
 import axios from 'axios';
-import ErrorPage from './components/ErrorPage';
+import ErrorPage from './ErrorPage';
 
 const GroupNavBar = ({isHiragana}) => {
     const katakanaNavBar = "lg:flex flex-1 justify-center overflow-x-auto m-1";

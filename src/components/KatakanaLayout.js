@@ -4,7 +4,7 @@ import LoadingPage from './LoadingPage';
 import ErrorPage from './ErrorPage';
 import useFetch from './custom-hook/useFetch';
 import { useParams } from 'react-router';
-import GroupNavBar from '../GroupNavBar';
+import GroupNavBar from './GroupNavBar';
 
 const KatakanaLayout = () => {  
   const isHiragana = false; //Flag used for displaying a DB's items over the other one and affecting the "GroupNavBar" component 

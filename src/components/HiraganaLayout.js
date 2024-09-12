@@ -3,7 +3,7 @@ import GroupDetails from './GroupDetails'
 import LoadingPage from './LoadingPage';
 import ErrorPage from './ErrorPage';
 import { useParams } from 'react-router';
-import GroupNavBar from '../GroupNavBar';
+import GroupNavBar from './GroupNavBar';
 import useFetch from './custom-hook/useFetch';
 
 const HiraganaLayout = () => {
