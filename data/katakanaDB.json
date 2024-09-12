@@ -1,0 +1,490 @@
+{
+  "katakanaChars": [
+    {
+      "name": "Vowels",
+      "id": "vowels",
+      "chars": [
+        {
+          "japanese": "ア",
+          "romaji": "a",
+          "example": "アメ",
+          "meaning": "candy",
+          "pronunciation": "ah",
+          "isFlipped": false,
+          "id": 1
+        },
+        {
+          "japanese": "イ",
+          "romaji": "i",
+          "example": "イヌ",
+          "meaning": "dog",
+          "pronunciation": "ee",
+          "isFlipped": false,
+          "id": 2
+        },
+        {
+          "japanese": "ウ",
+          "romaji": "u",
+          "example": "ウタ",
+          "meaning": "song", 
+          "pronunciation": "oo",
+          "isFlipped": false,
+          "id": 3
+        },
+        {
+          "japanese": "エ",
+          "romaji": "e",
+          "example": "エホン",
+          "meaning": "picture book", 
+          "pronunciation": "a",
+          "isFlipped": false,
+          "id": 4
+        },
+        {
+          "japanese": "オ",
+          "romaji": "o",
+          "example": "オトコ",
+          "meaning": "man", 
+          "pronunciation": "uh",
+          "isFlipped": false,
+          "id": 5
+        }
+      ]
+  },
+  {
+      "name": "K Group",
+      "id": "kGroup",
+      "chars": [
+        {
+          "japanese": "カ",
+          "romaji": "ka",
+          "example": "カオリ",
+          "meaning": "fragrance", 
+          "pronunciation": "kah",
+          "isFlipped": false,
+          "id": 6
+        },
+        {
+          "japanese": "キ",
+          "romaji": "ki",
+          "example": "キイロ",
+          "meaning": "yellow", 
+          "pronunciation": "kee",
+          "isFlipped": false,
+          "id": 7
+        },
+        {
+          "japanese": "ク",
+          "romaji": "ku",
+          "example": "クルマ",
+          "meaning": "car", 
+          "pronunciation": "koo",
+          "isFlipped": false,
+          "id": 8
+        },
+        {
+          "japanese": "ケ",
+          "romaji": "ke",
+          "example": "ケシキ",
+          "meaning": "scenery",
+          "pronunciation": "ka",
+          "isFlipped": false,
+          "id": 9
+        },
+        {
+          "japanese": "コ",
+          "romaji": "ko",
+          "example": "コンニチハ",
+          "meaning": "hello", 
+          "pronunciation": "kuh",
+          "isFlipped": false,
+          "id": 10
+        }
+      ]
+  },
+  {
+      "name": "S Group",
+      "id": "sGroup",
+      "chars": [
+        {
+          "japanese": "サ",
+          "romaji": "sa",
+          "example": "サクラ",
+          "meaning": "cherry blossom",
+          "pronunciation": "suh",
+          "isFlipped": false,
+          "id": 11
+        },
+        {
+          "japanese": "シ",
+          "romaji": "shi",
+          "example": "シゴト",
+          "meaning": "work",
+          "pronunciation": "she",
+          "isFlipped": false,
+          "id": 12
+        },
+        {
+          "japanese": "ス",
+          "romaji": "su",
+          "example": "スイカ",
+          "meaning": "watermelon",
+          "pronunciation": "soo",
+          "isFlipped": false,
+          "id": 13
+        },
+        {
+          "japanese": "セ",
+          "romaji": "se",
+          "example": "センセイ",
+          "meaning": "teacher",
+          "pronunciation": "sa",
+          "isFlipped": false,
+          "id": 14
+        },
+        {
+          "japanese": "ソ",
+          "romaji": "so",
+          "example": "ソラ",
+          "meaning": "sky",
+          "pronunciation": "su",
+          "isFlipped": false,
+          "id": 15
+        }
+      ]
+    },
+    {
+      "name": "T Group",
+      "id": "tGroup",
+      "chars": [
+        {
+          "japanese": "タ",
+          "romaji": "ta",
+          "example": "タクシー",
+          "meaning": "taxi",
+          "pronunciation": "tuh",
+          "isFlipped": false,
+          "id": 16
+        },
+        {
+          "japanese": "チ",
+          "romaji": "chi",
+          "example": "ニッポン",
+          "meaning": "Japan",
+          "pronunciation": "chee",
+          "isFlipped": false,
+          "id": 17
+        },
+        {
+          "japanese": "ツ",
+          "romaji": "tsu",
+          "example": "つくえ",
+          "meaning": "desk",
+          "pronunciation": "tsoo",
+          "isFlipped": false,
+          "id": 18
+        },
+        {
+          "japanese": "テ",
+          "romaji": "te",
+          "example": "マンガ",
+          "meaning": "manga",
+          "pronunciation": "ta",
+          "isFlipped": false,
+          "id": 19
+        },
+        {
+          "japanese": "ト",
+          "romaji": "to",
+          "example": "ヒーロー",
+          "meaning": "hero",
+          "pronunciation": "tu",
+          "isFlipped": false,
+          "id": 20
+        }
+      ]
+  },
+  {
+      "name": "N Group",
+      "id": "nGroup",
+      "chars": [
+        {
+          "japanese": "ナ",
+          "romaji": "na",
+          "example": "バナナ",
+          "meaning": "banana",
+          "pronunciation": "nuh",
+          "isFlipped": false,
+          "id": 21
+        },
+        {
+          "japanese": "ニ",
+          "romaji": "ni",
+          "example": "ニッポン",
+          "meaning": "Japan",
+          "pronunciation": "nee",
+          "isFlipped": false,
+          "id": 22
+        },
+        {
+          "japanese": "ヌ",
+          "romaji": "nu",
+          "example": "ニュース",
+          "meaning": "news",
+          "pronunciation": "nu",
+          "isFlipped": false,
+          "id": 23
+        },
+        {
+          "japanese": "ネ",
+          "romaji": "ne",
+          "example": "ネコ",
+          "meaning": "cat",
+          "pronunciation": "na",
+          "isFlipped": false,
+          "id": 24
+        },
+        {
+          "japanese": "ノ",
+          "romaji": "no",
+          "example": "ノート",
+          "meaning": "notebook",
+          "pronunciation": "noh",
+          "isFlipped": false,
+          "id": 25
+        }
+      ]
+    },
+    {
+      "name": "H Group",
+      "id": "hGroup",
+      "chars": [
+        {
+          "japanese": "ハ",
+          "romaji": "ha",
+          "example": "ハロー",
+          "meaning": "hello",
+          "isFlipped": false,
+          "pronunciation": "ha",
+          "id": 26
+        },
+        {
+          "japanese": "ヒ",
+          "romaji": "hi",
+          "example": "ヒーロー",
+          "meaning": "hero",
+          "pronunciation": "hi",
+          "isFlipped": false,
+          "id": 27
+        },
+        {
+          "japanese": "フ",
+          "romaji": "fu",
+          "example": "フルーツ",
+          "meaning": "fruit", 
+          "pronunciation": "fu",
+          "isFlipped": false,
+          "id": 28
+        },
+        {
+          "japanese": "ヘ",
+          "romaji": "he",
+          "example": "ヘリコプター",
+          "meaning": "helicopter",
+          "pronunciation": "he",
+          "isFlipped": false,
+          "id": 29
+        },
+        {
+          "japanese": "ホ",
+          "romaji": "ho",
+          "example": "ホテル",
+          "meaning": "hotel",
+          "pronunciation": "ho",
+          "isFlipped": false,
+          "id": 30
+        }
+      ]
+  },
+  {
+      "name": "M group",
+      "id": "mGroup",
+      "chars": [
+        {
+          "japanese": "マ",
+          "romaji": "ma",
+          "example": "マンガ",
+          "meaning": "manga",
+          "pronunciation": "ma",
+          "isFlipped": false,
+          "id": 31
+        },
+        {
+          "japanese": "ミ",
+          "romaji": "mi",
+          "example": "ミルク",
+          "meaning": "milk",
+          "pronunciation": "mi",
+          "isFlipped": false,
+          "id": 32
+        },
+        {
+          "japanese": "ム",
+          "romaji": "mu",
+          "example": "ミュージック",
+          "meaning": "music",
+          "pronunciation": "mu",
+          "isFlipped": false,
+          "id": 33
+        },
+        {
+          "japanese": "メ",
+          "romaji": "me",
+          "example": "メロン",
+          "meaning": "melon",
+          "pronunciation": "me",
+          "isFlipped": false,
+          "id": 34
+        },
+        {
+          "japanese": "モ",
+          "romaji": "mo",
+          "example": "モンスター",
+          "meaning": "monster",
+          "pronunciation": "mo",
+          "isFlipped": false,
+          "id": 35
+        }
+      ]
+    },
+    {
+      "name": "Y group",
+      "id": "yGroup",
+      "example": "ゆうびん",
+      "chars": [
+        {
+          "japanese": "ヤ",
+          "romaji": "ya",
+          "example": "ヤマト",
+          "meaning": "Yamato (company name)",
+          "pronunciation": "ya",
+          "isFlipped": false,
+          "id": 36
+        },
+        {
+          "japanese": "ユ",
+          "romaji": "yu",
+          "example": "ジュース",
+          "meaning": "juice",
+          "pronunciation": "yu",
+          "isFlipped": false,
+          "id": 37
+        },
+        {
+          "japanese": "ヨ",
+          "romaji": "yo",
+          "example": "ヨーグルト",
+          "meaning": "yogurt",
+          "pronunciation": "yo",
+          "isFlipped": false,
+          "id": 38
+        },
+        {
+          "japanese": "ワ",
+          "romaji": "wa",
+          "example": "ワサビ",
+          "meaning": "wasabi",
+          "pronunciation": "wa",
+          "isFlipped": false,
+          "id": 39
+        }
+      ]
+    },   
+  {
+      "name": "Dakuten",
+      "id": "handakuten",
+      "chars": [
+        {
+          "japanese": "ガ",
+          "romaji": "ga",
+          "example": "ガソリン",
+          "meaning": "gasoline",
+          "pronunciation": "ga",
+          "isFlipped": false,
+          "id": 40,
+          "isDakuten": true
+        },
+        {
+          "japanese": "ギ",
+          "romaji": "gi",
+          "example": "ギター",
+          "meaning": "guitar",
+          "pronunciation": "gi",
+          "isFlipped": false,
+          "id": 41,
+          "isDakuten": true
+        },
+        {
+          "japanese": "グ",
+          "romaji": "gu",
+          "example": "グーグル",
+          "meaning": "Google",
+          "pronunciation": "gu",
+          "isFlipped": false,
+          "id": 42,
+          "isDakuten": true
+        },
+        {
+          "japanese": "ゲ",
+          "romaji": "ge",
+          "example": "ゲーム",
+          "meaning": "game",
+          "pronunciation": "ge",
+          "isFlipped": false,
+          "id": 43,
+          "isDakuten": true
+        },
+        {
+          "japanese": "ゴ",
+          "romaji": "go",
+          "example": "ゴーヤ",
+          "meaning": "bitter melon",
+          "pronunciation": "go",
+          "isFlipped": false,
+          "id": 44,
+          "isDakuten": true
+        },
+        {
+          "japanese": "ザ",
+          "romaji": "za",
+          "example": "ピザ",
+          "meaning": "pizza",
+          "pronunciation": "za",
+          "isFlipped": false,
+          "id": 45,
+          "isDakuten": true
+        },
+        {
+          "japanese": "ダ",
+          "romaji": "da",
+          "example": "ダイヤモンド",
+          "meaning": "diamond",
+          "pronunciation": "da",
+          "isFlipped": false,
+          "id": 46,
+          "isDakuten": true
+        },
+        {
+          "japanese": "バ",
+          "romaji": "ba",
+          "example": "バナナ",
+          "meaning": "banana",
+          "pronunciation": "ba",
+          "isFlipped": false,
+          "id": 47,
+          "isDakuten": true
+        }
+      ]
+    }
+  ]
+}
